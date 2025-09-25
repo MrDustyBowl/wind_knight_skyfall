@@ -6,5 +6,22 @@
 
 ---
 
-## Version vidéo de ce guide (en anglais, vidéo par s.now25)
-[Cliquer sur ce lien](https://youtu.be/rotHMENL6Ek)
+## Version vidéo de ce guide (en anglais)
+[https://youtu.be/rotHMENL6Ek](https://youtu.be/rotHMENL6Ek)
+
+## Introduction
+
+Le Skyward (Aerial) Wind Knight est un DPS de mêlée avec une mécanique unique où vous restez en l’air la moitié du temps pendant le combat. Quand vous êtes en l’air, vous pouvez éviter beaucoup de patterns au sol et d’attaques de boss. La classe possède d’excellents dégâts de zone (AOE) et des dégâts monocible respectables, mais elle n’a aucune compétence d’interruption ni de regroupement de mobs.
+
+Cette classe utilise de l’équipement basé sur la Force, le même type d’équipement que les deux classes tank. Si vous souhaitez aussi jouer tank en parallèle sans trop optimiser le tank, il vous suffira simplement de farmer une arme de tank et vous serez prêt.
+
+Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une classe DPS de premier plan, je vous recommande plutôt de jouer Marksman (Bow).
+
+# Les compétences
+
+## Attaque de base (clique gauche de la souris)
+
+- Priorité d'amélioration: pas besoin d'améliorer
+- N'est jamais utilisé lors de la rotation optimisée
+
+##
