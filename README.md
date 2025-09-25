@@ -24,4 +24,6 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 - Priorité d'amélioration: pas besoin d'améliorer
 - N'est jamais utilisé lors de la rotation optimisée
 
-###
+### Skyfall
+
+![Sword Example](assets/rmb.png)
