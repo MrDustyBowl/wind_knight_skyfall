@@ -1,7 +1,7 @@
-# BPSR: Guide compréhensif de la classe Wind Knight (spec Skyfall)
+# BPSR: Guide compréhensif de la classe Wind Knight (spec Skyward)
 (Ceci est une traduction française du guide rédigé par s.now_ (s.now25))
-- [Chapter 1: Getting Started](chapter1.md)
-- [Chapter 2: Advanced Combat](chapter2.md)
+- [Introduction](chapter1.md)
+- [Compétences](chapter2.md)
 - [Chapter 3: Endgame](chapter3.md)
 
 ---
@@ -17,11 +17,11 @@ Cette classe utilise de l’équipement basé sur la Force, le même type d’é
 
 Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une classe DPS de premier plan, je vous recommande plutôt de jouer Marksman (Bow).
 
-# Les compétences
+## Compétences
 
-## Attaque de base (clique gauche de la souris)
+### Attaque de base (clique gauche de la souris)
 
 - Priorité d'amélioration: pas besoin d'améliorer
 - N'est jamais utilisé lors de la rotation optimisée
 
-##
+###
