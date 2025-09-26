@@ -3,6 +3,14 @@
 - [Introduction](#introduction)
 - [Compétences](#compétences)
 - [Ressources de classe](#ressources-de-classe)
+- [Buff clés](#ressources-de-classe)
+- [Arbre de compétences passives](#arbre-de-compétences-passives)
+- [Rotation](#rotation)
+- [Équipement et stats](#équipement-et-stats)
+- [Imagines](#imagines)
+- [Modules](#modules)
+- [Mises à jour](#mises-à-jour)
+- [NB](#nb)
 
 ---
 
@@ -126,7 +134,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 
 ![Wind and Thunder](assets/windnthunder.png)
 
-## Arbre de compétence passive
+## Arbre de compétences passives
 
 ### Noeuds clés
 
@@ -304,3 +312,12 @@ Non recommandé :
   - Le module chance de coup critique vous donne des PV, et le niveau 6 apporte 12% de dégâts critique. En supposant que vous ayez Muku Chief Lv3 (19% dégâts critique) et une chance de coup critique de 45%, l’augmentation réelle de ce module serait seulement de: ((150 + 19 + 12) / (150 + 19) - 1) * 45% = 3.2%. Si votre chance de coup critique est plus bas ou le niveau de Muku Chief plus élevé, l’augmentation serait encore plus faible.
 
 Bien que cette liste soit triée par priorité, si vous pouvez obtenir 3 modules de niveau 6 de priorité plus faible, c’est toujours mieux que d’avoir des modules de niveau 5 de haute priorité. Concentrez-vous d’abord sur l’obtention de 2 modules niveau 6, puis suivez la liste de priorité si vous pouvez choisir, et enfin visez 666 ou 665 comme objectif final.
+
+## Mises à jour
+
+- 02/09/25 : Mise à jour des recommandations de modules.
+- 02/09/25 : Ajout d’un lien vers la version YouTube de ce guide.
+
+## NB
+
+Ce guide a été rédigé par Snow. Je m’efforcerai de le mettre à jour au fur et à mesure que de nouveaux contenus seront débloqués et que de nouvelles informations sur le Skyward Wind Knight seront découvertes.
