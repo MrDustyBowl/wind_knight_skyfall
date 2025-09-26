@@ -152,7 +152,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 - [Instant Edge](#instant-edge) et Azure Sever génèrent une Tornade durant le buff.
   - Si [Instant Edge](#instant-edge) est lancé en étant au sol, la compétence touche l'ennemi deux fois et crée deux Tornades
 
-### Galeform
+### Buff Galeform
 
 - Buff de 15 secondes qui augmente la régénération de Courage](#courage) et l'attaque (conversion de force), quand le buff est actif la barre de Courage](#courage) sera entourée de vert.
 
