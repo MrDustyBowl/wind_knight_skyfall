@@ -74,7 +74,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 ![Typhoon Cleave](assets/r.png)
 
 - Priorité d'amélioration: pas besoin d'améliorer
-- Utilisé pour générer du Courage](#courage), pas pour les dégâts.
+- Utilisé pour générer du [Courage](#courage), pas pour les dégâts.
 
 ### Falcon Toss
 
@@ -117,9 +117,9 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 
 ![Courage](assets/courage.png)
 
-- Recharge naturellement au rythme de 3 Courage](#courage) / seconde.
-- Quand le buff [Galeform](#galeform) est actif, recharge naturellement 7 Courage](#courage) / seconde additionnel.
-- Quand le buff Wind Fury est actif, la recharge additionnelle de [Galeform](#galeform) passe à 10 Courage](#courage) / seconde.
+- Recharge naturellement au rythme de 3 [Courage](#courage) / seconde.
+- Quand le buff [Galeform](#galeform) est actif, recharge naturellement 7 [Courage](#courage) / seconde additionnel.
+- Quand le buff Wind Fury est actif, la recharge additionnelle de [Galeform](#galeform) passe à 10 [Courage](#courage) / seconde.
 - Les ticks de recharge de [Galeform](#galeform) sont indépendants des ticks de régénération naturelle.
 
 ### Sharp
@@ -147,14 +147,14 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 ### Wind Fury
 
 - Buff de 15 secondes déclenché par [Sharp Impact](#sharp-impact), augmente les dégâts infligés de 15%.
-- Augmente la régénération de Courage](#courage) du buff [Galeform](#galeform).
+- Augmente la régénération de [Courage](#courage) du buff [Galeform](#galeform).
 - [Falcon Toss](#falcon-toss) devient Azure Sever pour la première utilisation durant le buff.
 - [Instant Edge](#instant-edge) et Azure Sever génèrent une Tornade durant le buff.
   - Si [Instant Edge](#instant-edge) est lancé en étant au sol, la compétence touche l'ennemi deux fois et crée deux Tornades
 
 ### Buff Galeform
 
-- Buff de 15 secondes qui augmente la régénération de Courage](#courage) et l'attaque (conversion de force), quand le buff est actif la barre de Courage](#courage) sera entourée de vert.
+- Buff de 15 secondes qui augmente la régénération de [Courage](#courage) et l'attaque (conversion de force), quand le buff est actif la barre de [Courage](#courage) sera entourée de vert.
 
 ![Galeform](assets/galeformbuff.png)
 
@@ -209,7 +209,7 @@ Génère 1 stack de [Sharp](#sharp) quand Chasing Step est consommé.
 
 ![Air Dance Strike](assets/st_sharpimpact3.png)
 
-- Augmente la génération de Courage](#courage) de [Galeform](#galeform).
+- Augmente la génération de [Courage](#courage) de [Galeform](#galeform).
 - Génère 3 stacks de [Sharp](#sharp) quand [Sharp Impact](#sharp-impact) touche un ennemi
 
 ![Typhoon: Sharp Impact](assets/st_sharpimpact6.png)
@@ -258,13 +258,13 @@ Tant que vous obtenez 2 procs de Chasing Step sur les 5 [Skyfall](#skyfall) des 
 
 ### Gérer le Courage et autres nuances
 
-Il y a quelques nuances dans la gestion de Courage](#courage), notamment concernant l’utilisation de [Galeform](#galeform) et de l’ultime ([Typhoon Cleave](#typhoon-cleave)). Tout d’abord, vous devez retenir trois chiffres : 35, 70 et 105. Ce sont les valeurs de Courage](#courage) nécessaires pour lancer respectivement 1x, 2x et 3x [Skyfall](#skyfall).
+Il y a quelques nuances dans la gestion de [Courage](#courage), notamment concernant l’utilisation de [Galeform](#galeform) et de l’ultime ([Typhoon Cleave](#typhoon-cleave)). Tout d’abord, vous devez retenir trois chiffres : 35, 70 et 105. Ce sont les valeurs de [Courage](#courage) nécessaires pour lancer respectivement 1x, 2x et 3x [Skyfall](#skyfall).
 
-- Supposons que vous soyez actuellement à l’étape 2 de la rotation, et que votre Courage](#courage) soit supérieur à 105. Vous savez alors que vous pouvez continuer la rotation jusqu’à la fin de l’étape 3. Si à l’étape 3 vous obtenez deux procs de Chasing Step sur les 3x [Skyfall](#skyfall), alors vous savez qu’il ne vous restera qu’à faire 1 [Skyfall](#skyfall) à l’étape 5, soit 35 Courage](#courage). À ce moment, vous pouvez vérifier si vous avez 35 Courage](#courage) pendant l’exécution de l’étape 4, et décider si vous devez utiliser [Galeform](#galeform) avant l’étape 5. L’idée ici est de retarder l’utilisation de [Galeform](#galeform) suffisamment pour ne pas atteindre le maximum de Courage](#courage). Quand vous êtes chanceux (obtenant deux procs de Chasing Step), vous pouvez généralement retarder encore plus, car vous n’avez pas besoin de faire les cinq [Skyfall](#skyfall). Quand vous êtes malchanceux (aucun proc de Chasing Step sur les cinq [Skyfall](#skyfall)), vous devrez probablement utiliser l’ult pour récupérer du Courage](#courage) afin de ne pas briser complètement la rotation.
-- À l’étape 5, vous pouvez alterner l’ordre de Azure Sever et de [Skyfall](#skyfall) en fonction de votre Courage](#courage) et du temps restant du buff [Galeform](#galeform).
-  - Si votre Courage](#courage) est sur le point d’atteindre le cap de 130, vous devez utiliser [Skyfall](#skyfall) pour atteindre 3 [Sharp](#sharp) stacks d’abord, puis utiliser Azure Sever. Cela évite de gaspiller du Courage](#courage).
+- Supposons que vous soyez actuellement à l’étape 2 de la rotation, et que votre [Courage](#courage) soit supérieur à 105. Vous savez alors que vous pouvez continuer la rotation jusqu’à la fin de l’étape 3. Si à l’étape 3 vous obtenez deux procs de Chasing Step sur les 3x [Skyfall](#skyfall), alors vous savez qu’il ne vous restera qu’à faire 1 [Skyfall](#skyfall) à l’étape 5, soit 35 [Courage](#courage). À ce moment, vous pouvez vérifier si vous avez 35 [Courage](#courage) pendant l’exécution de l’étape 4, et décider si vous devez utiliser [Galeform](#galeform) avant l’étape 5. L’idée ici est de retarder l’utilisation de [Galeform](#galeform) suffisamment pour ne pas atteindre le maximum de [Courage](#courage). Quand vous êtes chanceux (obtenant deux procs de Chasing Step), vous pouvez généralement retarder encore plus, car vous n’avez pas besoin de faire les cinq [Skyfall](#skyfall). Quand vous êtes malchanceux (aucun proc de Chasing Step sur les cinq [Skyfall](#skyfall)), vous devrez probablement utiliser l’ult pour récupérer du [Courage](#courage) afin de ne pas briser complètement la rotation.
+- À l’étape 5, vous pouvez alterner l’ordre de Azure Sever et de [Skyfall](#skyfall) en fonction de votre [Courage](#courage) et du temps restant du buff [Galeform](#galeform).
+  - Si votre [Courage](#courage) est sur le point d’atteindre le cap de 130, vous devez utiliser [Skyfall](#skyfall) pour atteindre 3 [Sharp](#sharp) stacks d’abord, puis utiliser Azure Sever. Cela évite de gaspiller du [Courage](#courage).
   - Si le buff [Galeform](#galeform) est sur le point de se terminer, vous devez utiliser Azure Sever en premier afin que ses dégâts soient augmentés.
-  - S’il n’y a actuellement aucun buff [Galeform](#galeform) actif et que votre Courage](#courage) est faible, vous pouvez utiliser [Galeform](#galeform), puis Azure Sever, puis [Skyfall](#skyfall) pour remplir les [Sharp](#sharp) stacks restants. Cela garantit que les dégâts de Azure Sever sont boostés et que vous avez suffisamment de temps pour régénérer du Courage](#courage) pour [Skyfall](#skyfall).
+  - S’il n’y a actuellement aucun buff [Galeform](#galeform) actif et que votre [Courage](#courage) est faible, vous pouvez utiliser [Galeform](#galeform), puis Azure Sever, puis [Skyfall](#skyfall) pour remplir les [Sharp](#sharp) stacks restants. Cela garantit que les dégâts de Azure Sever sont boostés et que vous avez suffisamment de temps pour régénérer du [Courage](#courage) pour [Skyfall](#skyfall).
   - S’il y a déjà 3 Tornades sur le terrain, vous pouvez faire [Skyfall](#skyfall) > Azure Sever > [Skyfall](#skyfall) pour éviter que le Tornade d’Azure Sever ne soit pas généré à cause du cap de Tornades (expliqué dans la section Tornades).
 
 Il existe beaucoup, beaucoup d’autres scénarios. À force de jouer, vous commencerez à ressentir ce que vous devez faire.
@@ -288,7 +288,7 @@ Sources d’augmentation directe du pourcentage de vitesse d’attaque :
 - Modules
 Nous voulons atteindre au moins 20% de vitesse d’attaque, ce qui nous permettra de terminer confortablement 1 rotation pendant la durée de 15s de Wind Fury, maintenant ainsi 100% de temps actif sur Wind Fury.
 
-Personnellement, je recommande de viser une vitesse d’attaque supérieure à 20%, car il nous arrive encore d’atteindre le cap de Courage](#courage). Une vitesse d’attaque plus élevée permettra de convertir le Courage](#courage) gaspillé en dégâts. Bien qu’il soit attendu qu’il existe un point où la vitesse d’attaque sera trop élevée et que la génération de ressources ne pourra pas suivre, je ne sais pas encore où se situe ce point.
+Personnellement, je recommande de viser une vitesse d’attaque supérieure à 20%, car il nous arrive encore d’atteindre le cap de [Courage](#courage). Une vitesse d’attaque plus élevée permettra de convertir le [Courage](#courage) gaspillé en dégâts. Bien qu’il soit attendu qu’il existe un point où la vitesse d’attaque sera trop élevée et que la génération de ressources ne pourra pas suivre, je ne sais pas encore où se situe ce point.
 
 Pour référence, mon personnage avec un équipement niveau 60 est à 25% de vitesse d’attaque, et avec l’équipement niveau 80 à venir, il est prévu que ce soit encore plus élevé.
 
