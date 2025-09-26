@@ -2,12 +2,42 @@
 (Ceci est une traduction française du guide rédigé par s.now_ (s.now25))
 - [Introduction](#introduction)
 - [Compétences](#compétences)
+  - [Attaque de base](#attaque-de-base-(clique-gauche-de-la-souris))
+  - [Skyfall](#skyfall)
+  - [Typhoon Cleave](#typhoon-cleave)
+  - [Falcon Toss](#falcon-toss)
+  - [Instant Edge](#instant-edge)
+  - [Galeform](#galeform)
+  - [Sharp Impact](#sharp-impact)
 - [Ressources de classe](#ressources-de-classe)
+  - [Courage](#courage)
+  - [Sharp](#sharp)
+  - [Chasing Step](#chasing-step)
 - [Buff clés](#ressources-de-classe)
+  - [Wind Fury](#wind-fury)
+  - [Galeform](#galeform)
+  - [Wind and Thunder](#wind-and-thunder)
 - [Arbre de compétences passives](#arbre-de-compétences-passives)
+  - [Noeuds clés](#noeuds-clés)
+    - [Tornade](#tornade)
+    - [Instant Edge Combo](#instant-edge-combo)
+    - [Azure Sever](#azure-sever)
+    - [Chasing Step](#chasing-step)
+    - [Sharp Impact](#sharp-impact)
+    - [Wind Fury](#wind-fury)
+  - [Build arbre de compétence](#build-arbre-de-compétence)
+    - [Build recommandé](#build-recommandé)
+    - [Autres builds](#autres-builds)
 - [Rotation](#rotation)
+  - [Gérer le Courage et autres nuances](#gérer-le-courage-et-autres-nuances)
 - [Équipement et stats](#équipement-et-stats)
+  - [Stats](#stats)
+    - [Critique](#critique)
+    - [Célérité (Haste)](#célérité-(haste))
+    - [Chance (Luck)](#chance-(luck))
 - [Imagines](#imagines)
+  - [Imagines pour Whales](#imagines-pour-whales)
+  - [Imagines pour F2P](#imagines-pour-f2p)
 - [Modules](#modules)
 - [Mises à jour](#mises-à-jour)
 - [NB](#nb)
@@ -19,7 +49,7 @@
 
 ## Introduction
 
-Le Skyward Wind Knight est un DPS de mêlée avec une mécanique unique où vous restez en l’air la moitié du temps pendant le combat. Quand vous êtes en l’air vous pouvez éviter beaucoup de dégâts au sol (y compris d’attaques de boss). La classe possède d’excellents dégâts de zone (AoE) et des dégâts monocible respectables, mais elle n’a aucune compétence d’interruption ni de regroupement de mobs.
+Le Skyward Wind Knight est un DPS de mêlée avec une mécanique unique où vous restez en l’air la moitié du temps pendant le combat. Quand vous êtes en l’air vous pouvez éviter beaucoup de dégâts au sol (y compris les attaques de boss). La classe possède d’excellents dégâts de zone (AoE) et des dégâts monocible respectables, mais elle n’a aucune compétence d’interruption ni de regroupement de mobs.
 
 Cette classe utilise de l’équipement basé sur la Force, le même type d’équipement que les deux classes tank. Si vous souhaitez aussi jouer tank en parallèle sans trop optimiser le tank, il vous suffira simplement de farmer une arme de tank et vous serez prêt.
 
@@ -247,7 +277,7 @@ Il existe beaucoup, beaucoup d’autres scénarios. À force de jouer, vous comm
 
 Il faut 40% de chance de coup critique pour pouvoir exécuter la rotation telle qu’expliquée dans la section Rotation. Une fois 40% atteint, accumuler davantage de chance de critique n’apporte pas autant de valeur que d’autres statistiques comme la célérité (haste).
 
-Célérité (haste)
+#### Célérité (haste)
 
 Le but d’accumuler de la célérité est d’obtenir une vitesse d’attaque plus élevée, chaque pourcentage de célérité nous donnant 1,6% de vitesse d’attaque.
 
@@ -262,11 +292,11 @@ Personnellement, je recommande de viser une vitesse d’attaque supérieure à 2
 
 Pour référence, mon personnage avec un équipement niveau 60 est à 25% de vitesse d’attaque, et avec l’équipement niveau 80 à venir, il est prévu que ce soit encore plus élevé.
 
-#### Luck
+#### Chance (Luck)
 
-Avec la mise à jour d’équilibrage de classe du 28/08, la Luck va désormais scaler un peu, voir la section sur Instant Edge Combo.
+Avec la mise à jour d’équilibrage de classe du 28/08, la Chance va désormais scaler un peu, voir la section sur Instant Edge Combo.
 
-Actuellement, je n’ai pas assez de données pour dire s’il existe des breakpoints ou un sweet spot à atteindre. Pour l’instant, je recommande donc simplement de viser un set de classe 6 pièces et de ne pas chercher à augmenter la Luck de manière spécifique.
+Actuellement, je n’ai pas assez de données pour dire s’il existe des breakpoints ou un sweet spot à atteindre. Pour l’instant, je recommande donc simplement de viser un set de classe 6 pièces et de ne pas chercher à augmenter la Chance de manière spécifique.
 
 ### Équipement Lv60 & Gemmes
 
