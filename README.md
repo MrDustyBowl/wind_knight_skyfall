@@ -67,14 +67,14 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 ![Skyfall](assets/rmb.png)
 
 - Priorité d'amélioration: 3ème
-- Compétence principale pour générer des stacks de Sharp et proc Chasing Step.
+- Compétence principale pour générer des stacks de [Sharp](#sharp) et proc Chasing Step.
 
 ### Typhoon Cleave
 
 ![Typhoon Cleave](assets/r.png)
 
 - Priorité d'amélioration: pas besoin d'améliorer
-- Utilisé pour générer du Courage, pas pour les dégâts.
+- Utilisé pour générer du Courage](#courage), pas pour les dégâts.
 
 ### Falcon Toss
 
@@ -88,8 +88,8 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 ![Instant Edge](assets/e.png)
 
 - Priorité d'amélioration: 1er
-- L'une des sources principales de dégâts pour la classe, consomme des stacks de Sharp à l'utilisation et consomme des stacks de Chasing Step lorsqu’un ennemi est touché.
-- Permet de recharger Sharp Impact.
+- L'une des sources principales de dégâts pour la classe, consomme des stacks de [Sharp](#sharp) à l'utilisation et consomme des stacks de Chasing Step lorsqu’un ennemi est touché.
+- Permet de recharger [Sharp Impact](#sharp-impact).
 - Durant Wind Fury la compétence déclenche une tornade lorsqu'un ennemi est touché.
   - Si la compétence est utilisée en l'air, une tornade sera créée.
   - Si la compétence est utilisée au sol, deux tornades seront créées (mais l'animation sera plus longue).
@@ -117,18 +117,18 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 
 ![Courage](assets/courage.png)
 
-- Recharge naturellement au rythme de 3 Courage / seconde.
-- Quand le buff Galeform est actif, recharge naturellement 7 Courage / seconde additionnel.
-- Quand le buff Wind Fury est actif, la recharge additionnelle de Galeform passe à 10 Courage / seconde.
-- Les ticks de recharge de Galeform sont indépendants des ticks de régénération naturelle.
+- Recharge naturellement au rythme de 3 Courage](#courage) / seconde.
+- Quand le buff [Galeform](#galeform) est actif, recharge naturellement 7 Courage](#courage) / seconde additionnel.
+- Quand le buff Wind Fury est actif, la recharge additionnelle de [Galeform](#galeform) passe à 10 Courage](#courage) / seconde.
+- Les ticks de recharge de [Galeform](#galeform) sont indépendants des ticks de régénération naturelle.
 
 ### Sharp
 
 ![Sharp](assets/sharp.png)
 
-- Chaque stack dure 10 secondes, quand le timer arrive à zéro un stack est retiré. Si cela arrive, cela est considéré comme un stack dépensé pour charger Sharp Impact.
-- Chaque stack donne +5% d'attaque, n'avoir qu'un seul stack de Sharp est suffisant pour donner le même bonus d'attaque que si les stacks étaient complets. Cela veut dire que (en assumant que le maximum de Sharp est augmenté à 6 via les nodes passifs) n'avoir qu'un seul stack de Sharp donne: 5% x 6 = 30% bonus d'attaque.
-- Due à cette méchanique, il est nécessaire de toujours garder au moins un stack de Sharp en tout temps. Cela vaut également pour les DoTs comme les tornades car les dégâts sont calculés pour chaque tick de dégât plutôt que snapshot à la création de la tornade en elle-même.
+- Chaque stack dure 10 secondes, quand le timer arrive à zéro un stack est retiré. Si cela arrive, cela est considéré comme un stack dépensé pour charger [Sharp Impact](#sharp-impact).
+- Chaque stack donne +5% d'attaque, n'avoir qu'un seul stack de [Sharp](#sharp) est suffisant pour donner le même bonus d'attaque que si les stacks étaient complets. Cela veut dire que (en assumant que le maximum de [Sharp](#sharp) est augmenté à 6 via les nodes passifs) n'avoir qu'un seul stack de [Sharp](#sharp) donne: 5% x 6 = 30% bonus d'attaque.
+- Due à cette méchanique, il est nécessaire de toujours garder au moins un stack de [Sharp](#sharp) en tout temps. Cela vaut également pour les DoTs comme les tornades car les dégâts sont calculés pour chaque tick de dégât plutôt que snapshot à la création de la tornade en elle-même.
 
 ### Chasing Step
 
@@ -136,31 +136,31 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 |-----------|-----------|
 | ![1 Stack](assets/jj1.png)  | ![2 Stack](assets/jj2.png)  |
 
-- Un stack de Chasing Step est généré quand Skyfall inflige des dégâts critiques, jusqu'à 2 stacks max.
-- Quand un stack est dépensé par Instant Edge, il génère 1 stack de Sharp.
-- Quand un stack est dépensé par Instant Edge, il double la charge de Sharp Impact.
-  - Une utilisation d'Instant Edge à 3 stack de Sharp charge 15% de Sharp Impact, avec un stack de Chasing Step cela augmente à 30%.
-- C'est l'une des ressources les plus importantes, permettant d'accélérer la charge de Sharp Impact, plus de détails dans la partie Rotation.
+- Un stack de Chasing Step est généré quand [Skyfall](#skyfall) inflige des dégâts critiques, jusqu'à 2 stacks max.
+- Quand un stack est dépensé par [Instant Edge](#instant-edge), il génère 1 stack de [Sharp](#sharp).
+- Quand un stack est dépensé par [Instant Edge](#instant-edge), il double la charge de [Sharp Impact](#sharp-impact).
+  - Une utilisation d'[Instant Edge](#instant-edge) à 3 stack de [Sharp](#sharp) charge 15% de [Sharp Impact](#sharp-impact), avec un stack de Chasing Step cela augmente à 30%.
+- C'est l'une des ressources les plus importantes, permettant d'accélérer la charge de [Sharp Impact](#sharp-impact), plus de détails dans la partie Rotation.
 
 ## Buff clés
 
 ### Wind Fury
 
-- Buff de 15 secondes déclenché par Sharp Impact, augmente les dégâts infligés de 15%.
-- Augmente la régénération de Courage du buff Galeform.
-- Falcon Toss devient Azure Sever pour la première utilisation durant le buff.
-- Instant Edge et Azure Sever génèrent une Tornade durant le buff.
-  - Si Instant Edge est lancé en étant au sol, la compétence touche l'ennemi deux fois et crée deux Tornades
+- Buff de 15 secondes déclenché par [Sharp Impact](#sharp-impact), augmente les dégâts infligés de 15%.
+- Augmente la régénération de Courage](#courage) du buff [Galeform](#galeform).
+- [Falcon Toss](#falcon-toss) devient Azure Sever pour la première utilisation durant le buff.
+- [Instant Edge](#instant-edge) et Azure Sever génèrent une Tornade durant le buff.
+  - Si [Instant Edge](#instant-edge) est lancé en étant au sol, la compétence touche l'ennemi deux fois et crée deux Tornades
 
 ### Galeform
 
-- Buff de 15 secondes qui augmente la régénération de Courage et l'attaque (conversion de force), quand le buff est actif la barre de Courage sera entourée de vert.
+- Buff de 15 secondes qui augmente la régénération de Courage](#courage) et l'attaque (conversion de force), quand le buff est actif la barre de Courage](#courage) sera entourée de vert.
 
 ![Galeform](assets/galeformbuff.png)
 
 ### Wind and Thunder
 
--Quand le buff Galeform se dissipe, il applique un second buff: Wind and Thunder. Galeform doit expirer naturellement à la fin de son timer pour déclencher ce second buff. Si Galeform est retiré ou rafraîchit avant qu'il ne termine, Wind and Thunder ne sera pas appliqué.
+-Quand le buff [Galeform](#galeform) se dissipe, il applique un second buff: Wind and Thunder. [Galeform](#galeform) doit expirer naturellement à la fin de son timer pour déclencher ce second buff. Si [Galeform](#galeform) est retiré ou rafraîchit avant qu'il ne termine, Wind and Thunder ne sera pas appliqué.
 
 ![Wind and Thunder](assets/windnthunder.png)
 
@@ -183,7 +183,7 @@ La description en jeu de la Tornade n'est pas complète. Voici en détail commen
 
 #### Instant Edge Combo
 
-Après la mise à jour d’équilibrage de classe du 28/08, ce noeud est passé d’un taux fixe de 15% à un taux identique à celui de Lucky Hit du personnage, c’est-à-dire le pourcentage de Luck. Les dégâts seront alors calculés comme les dégâts de Instant Edge (avec tous ses multiplicateurs applicables) × le multiplicateur de dégâts Lucky Hit. Sur mon personnage avec un set 4 pièces d’équipement de classe niveau 60 + une arme niveau 70, ce multiplicateur est d’environ 100%, ce qui signifie qu’à chaque proc, Instant Edge inflige 2x ses dégâts.
+Après la mise à jour d’équilibrage de classe du 28/08, ce noeud est passé d’un taux fixe de 15% à un taux identique à celui de Lucky Hit du personnage, c’est-à-dire le pourcentage de Luck. Les dégâts seront alors calculés comme les dégâts de [Instant Edge](#instant-edge) (avec tous ses multiplicateurs applicables) × le multiplicateur de dégâts Lucky Hit. Sur mon personnage avec un set 4 pièces d’équipement de classe niveau 60 + une arme niveau 70, ce multiplicateur est d’environ 100%, ce qui signifie qu’à chaque proc, [Instant Edge](#instant-edge) inflige 2x ses dégâts.
 
 | Avant | Après |
 |-----------|-----------|
@@ -193,7 +193,7 @@ Après la mise à jour d’équilibrage de classe du 28/08, ce noeud est passé 
 
 ![Sharp Long Breath](assets/st_azure.png)
 
-Permet d'utiliser Azure Sever, générant 3 stacks de Sharp quand la compétence touche un ennemi, voir Falcon Toss et Wind Fury pour plus d'infos.
+Permet d'utiliser Azure Sever, générant 3 stacks de [Sharp](#sharp) quand la compétence touche un ennemi, voir [Falcon Toss](#falcon-toss) et Wind Fury pour plus d'infos.
 
 #### Chasing Step
 
@@ -203,19 +203,19 @@ Permet d'utiliser Chasing Step.
 
 ![Sharp Pursuit](assets/st_chasingsteprefund.png)
 
-Génère 1 stack de Sharp quand Chasing Step est consommé.
+Génère 1 stack de [Sharp](#sharp) quand Chasing Step est consommé.
 
 #### Sharp Impact
 
 ![Air Dance Strike](assets/st_sharpimpact3.png)
 
-- Augmente la génération de Courage de Galeform.
-- Génère 3 stacks de Sharp quand Sharp Impact touche un ennemi
+- Augmente la génération de Courage](#courage) de [Galeform](#galeform).
+- Génère 3 stacks de [Sharp](#sharp) quand [Sharp Impact](#sharp-impact) touche un ennemi
 
 ![Typhoon: Sharp Impact](assets/st_sharpimpact6.png)
 
-- Le jeu n’explique pas bien ce point : ce noeud fait en sorte que Sharp Impact inflige un coup supplémentaire, et ce coup supplémentaire accorde 3 Sharp en plus des 3 obtenus via Air Dance Strike.
-- L’objectif principal de prendre ce noeud est donc d’avoir directement 6 Sharp après chaque Sharp Impact.
+- Le jeu n’explique pas bien ce point : ce noeud fait en sorte que [Sharp Impact](#sharp-impact) inflige un coup supplémentaire, et ce coup supplémentaire accorde 3 [Sharp](#sharp) en plus des 3 obtenus via Air Dance Strike.
+- L’objectif principal de prendre ce noeud est donc d’avoir directement 6 [Sharp](#sharp) après chaque [Sharp Impact](#sharp-impact).
 
 #### Wind Fury
 
@@ -225,7 +225,7 @@ Permet de bénéficier de Wind Fury.
 
 ![Sharp Advancement](assets/st_windfury50.png)
 
-Permet de bénéficier de la double charge de Sharp Impact avec Instant Edge
+Permet de bénéficier de la double charge de [Sharp Impact](#sharp-impact) avec [Instant Edge](#instant-edge)
 
 ### Build arbre de compétence
 
@@ -247,25 +247,25 @@ Cela étant dit, si vous êtes quand même intéressés, vous pouvez me contacte
 
 La rotation pour le build recommandé est en réalité très simple :
 
-1. Utilisez toutes les imagines disponibles, puis Galeform.
-2. Faites un jump cancel pour Sharp Impact (note : génère 6 Sharp grâce à ce noeud).
-3. Instant Edge au sol, puis 3x Skyfall.
-4. Instant Edge en l'air → Instant Edge au sol.
-5. Azure Sever, puis faites 1 ou 2 Skyfall jusqu’à atteindre 6 stacks de Sharp (note : Azure Sever génère 3 Sharp, grâce à ce noeud).
-6. Instant Edge en l'air → Instant Edge au sol.
+1. Utilisez toutes les imagines disponibles, puis [Galeform](#galeform).
+2. Faites un jump cancel pour [Sharp Impact](#sharp-impact) (note : génère 6 [Sharp](#sharp) grâce à [ce noeud](#sharp-impact-)).
+3. [Instant Edge](#instant-edge) au sol, puis 3x [Skyfall](#skyfall).
+4. [Instant Edge](#instant-edge) en l'air → [Instant Edge](#instant-edge) au sol.
+5. Azure Sever, puis faites 1 ou 2 [Skyfall](#skyfall) jusqu’à atteindre 6 stacks de [Sharp](#sharp) (note : Azure Sever génère 3 [Sharp](#sharp), grâce à [ce noeud](#azure-sever)).
+6. [Instant Edge](#instant-edge) en l'air → [Instant Edge](#instant-edge) au sol.
 
-Tant que vous obtenez 2 procs de Chasing Step sur les 5 Skyfalls des étapes 3 et 5, votre Sharp Impact sera rechargé à la fin de l’étape 6. Vous pourrez alors recommencer la rotation à partir de l’étape 1 ou 2. C’est pour cette raison que vous n’avez besoin que d’environ 40% de crit rate (2 / 5 = 0,4) pour exécuter cette rotation sans problème.
+Tant que vous obtenez 2 procs de Chasing Step sur les 5 [Skyfall](#skyfall) des étapes 3 et 5, votre [Sharp Impact](#sharp-impact) sera rechargé à la fin de l’étape 6. Vous pourrez alors recommencer la rotation à partir de l’étape 1 ou 2. C’est pour cette raison que vous n’avez besoin que d’environ 40% de crit rate (2 / 5 = 0,4) pour exécuter cette rotation sans problème.
 
 ### Gérer le Courage et autres nuances
 
-Il y a quelques nuances dans la gestion de Courage, notamment concernant l’utilisation de Galeform et de l’ultime (Typhoon Cleave). Tout d’abord, vous devez retenir trois chiffres : 35, 70 et 105. Ce sont les valeurs de Courage nécessaires pour lancer respectivement 1x, 2x et 3x Skyfall.
+Il y a quelques nuances dans la gestion de Courage](#courage), notamment concernant l’utilisation de [Galeform](#galeform) et de l’ultime ([Typhoon Cleave](#typhoon-cleave)). Tout d’abord, vous devez retenir trois chiffres : 35, 70 et 105. Ce sont les valeurs de Courage](#courage) nécessaires pour lancer respectivement 1x, 2x et 3x [Skyfall](#skyfall).
 
-- Supposons que vous soyez actuellement à l’étape 2 de la rotation, et que votre Courage soit supérieur à 105. Vous savez alors que vous pouvez continuer la rotation jusqu’à la fin de l’étape 3. Si à l’étape 3 vous obtenez deux procs de Chasing Step sur les 3x Skyfall, alors vous savez qu’il ne vous restera qu’à faire 1 Skyfall à l’étape 5, soit 35 Courage. À ce moment, vous pouvez vérifier si vous avez 35 Courage pendant l’exécution de l’étape 4, et décider si vous devez utiliser Galeform avant l’étape 5. L’idée ici est de retarder l’utilisation de Galeform suffisamment pour ne pas atteindre le maximum de Courage. Quand vous êtes chanceux (obtenant deux procs de Chasing Step), vous pouvez généralement retarder encore plus, car vous n’avez pas besoin de faire les cinq Skyfall. Quand vous êtes malchanceux (aucun proc de Chasing Step sur les cinq Skyfall), vous devrez probablement utiliser l’ult pour récupérer du Courage afin de ne pas briser complètement la rotation.
-- À l’étape 5, vous pouvez alterner l’ordre de Azure Sever et de Skyfall en fonction de votre Courage et du temps restant du buff Galeform.
-  - Si votre Courage est sur le point d’atteindre le cap de 130, vous devez utiliser Skyfall pour atteindre 3 Sharp stacks d’abord, puis utiliser Azure Sever. Cela évite de gaspiller du Courage.
-  - Si le buff Galeform est sur le point de se terminer, vous devez utiliser Azure Sever en premier afin que ses dégâts soient augmentés.
-  - S’il n’y a actuellement aucun buff Galeform actif et que votre Courage est faible, vous pouvez utiliser Galeform, puis Azure Sever, puis Skyfall pour remplir les Sharp stacks restants. Cela garantit que les dégâts de Azure Sever sont boostés et que vous avez suffisamment de temps pour régénérer du Courage pour Skyfall.
-  - S’il y a déjà 3 Tornades sur le terrain, vous pouvez faire Skyfall > Azure Sever > Skyfall pour éviter que le Tornade d’Azure Sever ne soit pas généré à cause du cap de Tornades (expliqué dans la section Tornades).
+- Supposons que vous soyez actuellement à l’étape 2 de la rotation, et que votre Courage](#courage) soit supérieur à 105. Vous savez alors que vous pouvez continuer la rotation jusqu’à la fin de l’étape 3. Si à l’étape 3 vous obtenez deux procs de Chasing Step sur les 3x [Skyfall](#skyfall), alors vous savez qu’il ne vous restera qu’à faire 1 [Skyfall](#skyfall) à l’étape 5, soit 35 Courage](#courage). À ce moment, vous pouvez vérifier si vous avez 35 Courage](#courage) pendant l’exécution de l’étape 4, et décider si vous devez utiliser [Galeform](#galeform) avant l’étape 5. L’idée ici est de retarder l’utilisation de [Galeform](#galeform) suffisamment pour ne pas atteindre le maximum de Courage](#courage). Quand vous êtes chanceux (obtenant deux procs de Chasing Step), vous pouvez généralement retarder encore plus, car vous n’avez pas besoin de faire les cinq [Skyfall](#skyfall). Quand vous êtes malchanceux (aucun proc de Chasing Step sur les cinq [Skyfall](#skyfall)), vous devrez probablement utiliser l’ult pour récupérer du Courage](#courage) afin de ne pas briser complètement la rotation.
+- À l’étape 5, vous pouvez alterner l’ordre de Azure Sever et de [Skyfall](#skyfall) en fonction de votre Courage](#courage) et du temps restant du buff [Galeform](#galeform).
+  - Si votre Courage](#courage) est sur le point d’atteindre le cap de 130, vous devez utiliser [Skyfall](#skyfall) pour atteindre 3 [Sharp](#sharp) stacks d’abord, puis utiliser Azure Sever. Cela évite de gaspiller du Courage](#courage).
+  - Si le buff [Galeform](#galeform) est sur le point de se terminer, vous devez utiliser Azure Sever en premier afin que ses dégâts soient augmentés.
+  - S’il n’y a actuellement aucun buff [Galeform](#galeform) actif et que votre Courage](#courage) est faible, vous pouvez utiliser [Galeform](#galeform), puis Azure Sever, puis [Skyfall](#skyfall) pour remplir les [Sharp](#sharp) stacks restants. Cela garantit que les dégâts de Azure Sever sont boostés et que vous avez suffisamment de temps pour régénérer du Courage](#courage) pour [Skyfall](#skyfall).
+  - S’il y a déjà 3 Tornades sur le terrain, vous pouvez faire [Skyfall](#skyfall) > Azure Sever > [Skyfall](#skyfall) pour éviter que le Tornade d’Azure Sever ne soit pas généré à cause du cap de Tornades (expliqué dans la section Tornades).
 
 Il existe beaucoup, beaucoup d’autres scénarios. À force de jouer, vous commencerez à ressentir ce que vous devez faire.
 
@@ -288,13 +288,13 @@ Sources d’augmentation directe du pourcentage de vitesse d’attaque :
 - Modules
 Nous voulons atteindre au moins 20% de vitesse d’attaque, ce qui nous permettra de terminer confortablement 1 rotation pendant la durée de 15s de Wind Fury, maintenant ainsi 100% de temps actif sur Wind Fury.
 
-Personnellement, je recommande de viser une vitesse d’attaque supérieure à 20%, car il nous arrive encore d’atteindre le cap de Courage. Une vitesse d’attaque plus élevée permettra de convertir le Courage gaspillé en dégâts. Bien qu’il soit attendu qu’il existe un point où la vitesse d’attaque sera trop élevée et que la génération de ressources ne pourra pas suivre, je ne sais pas encore où se situe ce point.
+Personnellement, je recommande de viser une vitesse d’attaque supérieure à 20%, car il nous arrive encore d’atteindre le cap de Courage](#courage). Une vitesse d’attaque plus élevée permettra de convertir le Courage](#courage) gaspillé en dégâts. Bien qu’il soit attendu qu’il existe un point où la vitesse d’attaque sera trop élevée et que la génération de ressources ne pourra pas suivre, je ne sais pas encore où se situe ce point.
 
 Pour référence, mon personnage avec un équipement niveau 60 est à 25% de vitesse d’attaque, et avec l’équipement niveau 80 à venir, il est prévu que ce soit encore plus élevé.
 
 #### Chance (Luck)
 
-Avec la mise à jour d’équilibrage de classe du 28/08, la Chance va désormais scaler un peu, voir la section sur Instant Edge Combo.
+Avec la mise à jour d’équilibrage de classe du 28/08, la Chance va désormais scaler un peu, voir la section sur [Instant Edge](#instant-edge) Combo.
 
 Actuellement, je n’ai pas assez de données pour dire s’il existe des breakpoints ou un sweet spot à atteindre. Pour l’instant, je recommande donc simplement de viser un set de classe 6 pièces et de ne pas chercher à augmenter la Chance de manière spécifique.
 
