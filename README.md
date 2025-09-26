@@ -1,8 +1,8 @@
 # BPSR: Guide compréhensif de la classe Wind Knight (spec Skyward)
 (Ceci est une traduction française du guide rédigé par s.now_ (s.now25))
-- [Introduction](chapter1.md)
-- [Compétences](chapter2.md)
-- [Chapter 3: Endgame](chapter3.md)
+- [Introduction](#introduction)
+- [Compétences](#compétences)
+- [Ressources de classe](#ressources-de-classe)
 
 ---
 
@@ -122,7 +122,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 
 ### Wind and Thunder
 
--Quand le buff se dissipe, il applique un second buff: Wind and Thunder. Galeform doit expirer naturellement à la fin de son timer pour déclencher ce second buff. Si Galeform est retiré ou rafraîchit avant qu'il ne termine, Wind and Thunder ne sera pas appliqué.
+-Quand le buff Galeform se dissipe, il applique un second buff: Wind and Thunder. Galeform doit expirer naturellement à la fin de son timer pour déclencher ce second buff. Si Galeform est retiré ou rafraîchit avant qu'il ne termine, Wind and Thunder ne sera pas appliqué.
 
 ![Wind and Thunder](assets/windnthunder.png)
 
