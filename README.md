@@ -71,7 +71,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 
 - Priorité d'amélioration: 4ème
 - Les dégâts de la compétence sont négligeable, elle est utilisée surtout pour activer le buff Wind Fury.
-- Quand la compétence est lancée au sol, votre personnage se téléporte d'abord au dessus de la cible avant de s'écraser au sol. Cette animation initiale est longue et peut être entièrement évitée en sautant avant de lancer la compétence. Cette technique "jump cancel" est incorporée dans la rotation.
+- Quand la compétence est lancée au sol, votre personnage se téléporte d'abord au dessus de la cible avant de s'écraser au sol. Cette animation de téléportation initiale est longue mais elle peut être entièrement évitée en sautant avant de lancer la compétence. Cette technique "jump cancel" est incorporée dans la rotation.
 
 ## Ressources de classe
 
@@ -82,7 +82,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 - Recharge naturellement au rythme de 3 Courage / seconde
 - Quand le buff Galeform est actif, recharge naturellement 7 Courage / seconde additionnel
 - Quand le buff Wind Fury est actif, la recharge additionnelle de Galeform passe à 10 Courage / seconde
-- Les ticks de recharge de Galeforme sont indépendants des ticks de régénération naturelle.
+- Les ticks de recharge de Galeform sont indépendants des ticks de régénération naturelle.
 
 ### Sharp
 
@@ -97,3 +97,35 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 | 1 Stack | 2 Stacks |
 |-----------|-----------|
 | ![1 Stack](assets/jj1.png)  | ![2 Stack](assets/jj2.png)  |
+
+- Un stack de Chasing Step est généré quand Skyfall inflige des dégâts critiques, jusqu'à 2 stacks max
+- Quand un stack est dépensé par Instant Edge, il génère 1 stack de Sharp
+- Quand un stack est dépensé par Instant Edge, il double la charge de Sharp Impact
+  - Une utilisation d'Instant Edge à 3 stack de Sharp charge 15% de Sharp Impact, avec un stack de Chasing Step cela augmente à 30%
+- C'est l'une des ressources les plus importantes, permettant d'accélérer la charge de Sharp Impact, plus de détails dans la partie Rotation
+
+## Buff clés
+
+### Wind Fury
+
+- Buff de 15 secondes déclenché par Sharp Impact, augmente les dégâts infligés de 15%
+- Augmente la régénération de Courage du buff Galeform
+- Falcon Toss devient Azure Sever pour la première utilisation durant le buff
+- Instant Edge et Azure Sever génèrent une Tornade durant le buff
+  - Si Instant Edge est lancé en étant au sol, la compétence touche l'ennemi deux fois et crée deux Tornades
+
+### Galeform
+
+- Buff de 15 secondes qui augmente la régénération de Courage et l'attaque (conversion de force), quand le buff est actif la barre de Courage sera entourée de vert
+
+![Galeform](assets/galeformbuff.png)
+
+-Quand le buff se dissipe, il applique un second buff: Wind and Thunder. Galeform doit expirer naturellement à la fin de son timer pour déclencher ce second buff. Si le Galeform est retiré ou rafraîchit avant qu'il ne termine, Wind and Thunder ne sera pas appliqué.
+
+![Wind and Thunder](assets/windnthunder.png)
+
+## Arbre de compétence passive
+
+### Noeuds clés
+
+#### Tornade
