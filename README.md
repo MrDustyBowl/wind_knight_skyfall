@@ -81,7 +81,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 ![Falcon Toss](assets/q.png)
 
 - Priorité d'amélioration: 4ème
-- Généralement pas utilisé en rotation, utilisé une seule fois durant Wind Fury quand Azure Sever est disponible.
+- Généralement pas utilisé en rotation, utilisé une seule fois durant [Wind Fury](#wind-fury) quand Azure Sever est disponible.
 
 ### Instant Edge
 
@@ -90,7 +90,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 - Priorité d'amélioration: 1er
 - L'une des sources principales de dégâts pour la classe, consomme des stacks de [Sharp](#sharp) à l'utilisation et consomme des stacks de Chasing Step lorsqu’un ennemi est touché.
 - Permet de recharger [Sharp Impact](#sharp-impact).
-- Durant Wind Fury la compétence déclenche une tornade lorsqu'un ennemi est touché.
+- Durant [Wind Fury](#wind-fury) la compétence déclenche une tornade lorsqu'un ennemi est touché.
   - Si la compétence est utilisée en l'air, une tornade sera créée.
   - Si la compétence est utilisée au sol, deux tornades seront créées (mais l'animation sera plus longue).
 - Cette compétence est utilisée pour déclencher Instant Edge Combo.
@@ -108,7 +108,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 ![Sharp Impact](assets/c.png)
 
 - Priorité d'amélioration: 4ème
-- Les dégâts de la compétence sont négligeable, elle est utilisée surtout pour activer le buff Wind Fury.
+- Les dégâts de la compétence sont négligeable, elle est utilisée surtout pour activer le buff [Wind Fury](#wind-fury).
 - Quand la compétence est lancée au sol, votre personnage se téléporte d'abord au dessus de la cible avant de s'écraser au sol. Cette animation de téléportation initiale est longue mais elle peut être entièrement évitée en sautant avant de lancer la compétence. Cette technique "jump cancel" est incorporée dans la rotation.
 
 ## Ressources de classe
@@ -119,7 +119,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 
 - Recharge naturellement au rythme de 3 [Courage](#courage) / seconde.
 - Quand le buff [Galeform](#galeform) est actif, recharge naturellement 7 [Courage](#courage) / seconde additionnel.
-- Quand le buff Wind Fury est actif, la recharge additionnelle de [Galeform](#galeform) passe à 10 [Courage](#courage) / seconde.
+- Quand le buff [Wind Fury](#wind-fury) est actif, la recharge additionnelle de [Galeform](#galeform) passe à 10 [Courage](#courage) / seconde.
 - Les ticks de recharge de [Galeform](#galeform) sont indépendants des ticks de régénération naturelle.
 
 ### Sharp
@@ -179,7 +179,7 @@ La description en jeu de la Tornade n'est pas complète. Voici en détail commen
   - Mais en réalité, ce qui est implémenté en jeu n’est pas conforme aux patch notes : la réduction appliquée par coup est en fait de 40%, et non de 20%. Nous ne savons pas encore si cela sera corrigé pour correspondre aux patch notes, ou si la description sera simplement ajustée pour refléter ce qui est réellement en jeu.
   - Il ne peut y avoir que 3 Tornades sur le terrain à la fois. Les compétences ne déclencheront pas de Tornades supplémentaires et ne rafraîchiront pas les Tornades existants lorsqu’il y en a déjà 3 en jeu.
   - Les dégâts des Tornades ne se basent ni sur le niveau des compétences, ni sur les dégâts de Mêlée, ni sur les dégâts de Skill Expertise.
-  - La Tornade est l’une des principales sources de dégâts. Les compétences qui déclenchent des Tornades sont expliquées dans la section Wind Fury.
+  - La Tornade est l’une des principales sources de dégâts. Les compétences qui déclenchent des Tornades sont expliquées dans la section [Wind Fury](#wind-fury).
 
 #### Instant Edge Combo
 
@@ -193,7 +193,7 @@ Après la mise à jour d’équilibrage de classe du 28/08, ce noeud est passé 
 
 ![Sharp Long Breath](assets/st_azure.png)
 
-Permet d'utiliser Azure Sever, générant 3 stacks de [Sharp](#sharp) quand la compétence touche un ennemi, voir [Falcon Toss](#falcon-toss) et Wind Fury pour plus d'infos.
+Permet d'utiliser Azure Sever, générant 3 stacks de [Sharp](#sharp) quand la compétence touche un ennemi, voir [Falcon Toss](#falcon-toss) et [Wind Fury](#wind-fury) pour plus d'infos.
 
 #### Chasing Step
 
@@ -221,7 +221,7 @@ Génère 1 stack de [Sharp](#sharp) quand Chasing Step est consommé.
 
 ![Wind Fury](assets/st_windfury.png)
 
-Permet de bénéficier de Wind Fury.
+Permet de bénéficier de [Wind Fury](#wind-fury).
 
 ![Sharp Advancement](assets/st_windfury50.png)
 
@@ -286,7 +286,7 @@ Mais comme la conversion de la valeur brute de célérité en pourcentage subit 
 Sources d’augmentation directe du pourcentage de vitesse d’attaque :
 - Équipement violet
 - Modules
-Nous voulons atteindre au moins 20% de vitesse d’attaque, ce qui nous permettra de terminer confortablement 1 rotation pendant la durée de 15s de Wind Fury, maintenant ainsi 100% de temps actif sur Wind Fury.
+Nous voulons atteindre au moins 20% de vitesse d’attaque, ce qui nous permettra de terminer confortablement 1 rotation pendant la durée de 15s de [Wind Fury](#wind-fury), maintenant ainsi 100% de temps actif sur [Wind Fury](#wind-fury).
 
 Personnellement, je recommande de viser une vitesse d’attaque supérieure à 20%, car il nous arrive encore d’atteindre le cap de [Courage](#courage). Une vitesse d’attaque plus élevée permettra de convertir le [Courage](#courage) gaspillé en dégâts. Bien qu’il soit attendu qu’il existe un point où la vitesse d’attaque sera trop élevée et que la génération de ressources ne pourra pas suivre, je ne sais pas encore où se situe ce point.
 
