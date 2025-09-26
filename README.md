@@ -15,7 +15,7 @@
   - [Chasing Step](#chasing-step)
 - [Buff clés](#ressources-de-classe)
   - [Wind Fury](#wind-fury)
-  - [Galeform](#galeform)
+  - [Buff Galeform](#buff-galeform)
   - [Wind and Thunder](#wind-and-thunder)
 - [Arbre de compétences passives](#arbre-de-compétences-passives)
   - [Noeuds clés](#noeuds-clés)
@@ -100,7 +100,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 ![Galeform](assets/4.png)
 
 - Priorité d'amélioration: 2ème
-- Utilisé pour activer le buff Galeform, possède 2 charges avec un cooldown de 30 secondes.
+- Utilisé pour activer le [buff Galeform](#buff-galeform), possède 2 charges avec un cooldown de 30 secondes.
 - Améliorer cette compétence augmente le buff de dégâts, affectant toutes les autres compétences.
 
 ### Sharp Impact
@@ -160,7 +160,7 @@ Cette classe n’est pas la meilleure classe DPS. Si vous voulez jouer une class
 
 ### Wind and Thunder
 
--Quand le buff [Galeform](#galeform) se dissipe, il applique un second buff: Wind and Thunder. [Galeform](#galeform) doit expirer naturellement à la fin de son timer pour déclencher ce second buff. Si [Galeform](#galeform) est retiré ou rafraîchit avant qu'il ne termine, Wind and Thunder ne sera pas appliqué.
+-Quand le [buff Galeform](#buff-galeform) se dissipe, il applique un second buff: Wind and Thunder. Le [buff Galeform](#buff-galeform) doit expirer naturellement à la fin de son timer pour déclencher ce second buff. Si le [buff Galeform](#buff-galeform) est retiré ou rafraîchit avant qu'il ne termine, Wind and Thunder ne sera pas appliqué.
 
 ![Wind and Thunder](assets/windnthunder.png)
 
