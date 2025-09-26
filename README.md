@@ -195,6 +195,8 @@ Permet de bénéficier de la double charge de Sharp Impact avec Instant Edge
 
 Le bleu met en évidence le cœur du build. Avec un équipement niveau 60 (arme 70), vous devez prendre le chemin jaune pour augmenter les dégâts des Tornades. Même si les dégâts des Tornades ont été nerfés lors de la mise à jour d’équilibrage de classe du 28/08, cela reste malgré tout la source de dégâts la plus importante.
 
+![Recommended build](assets/skilltree.png)
+
 #### Autres builds
 
 Il existe quelques builds assez originaux pour cette classe. Je ne les recommande pas ici car ces builds vont à l’encontre de l’idée que les devs ont de cette classe (vous misez sur des stats que le jeu ne conseille pas), et il faudrait investir dans d’autres Imagines (gold).
